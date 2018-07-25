@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/tac_test_job1_0.1</module>
+    <module>jobs/process/nohetalendtest_job1_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TAC_PROJECT1</talend.project.name>
