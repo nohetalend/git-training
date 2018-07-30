@@ -456,4 +456,7 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_A2Gx4opJEeiRG4YepOtCCw" login="nohe@talend.com" firstName="Naoya" lastName="Ohe" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_ZO2B4YpKEeiGw-6t9cwljA" login="developer@talend.com" firstName="Michael" lastName="Jackson" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_OMVFYJO7EeioTJDkQjKDUA" login="nohe2@talend.com" firstName="Naoya2" lastName="Ohe2" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_OMVFYZO7EeioTJDkQjKDUA" login="nohe2@talend.com" firstName="Naoya2" lastName="Ohe2" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_OMVFYpO7EeioTJDkQjKDUA" login="nohedeveloper@talend.com" firstName="Naoya3" lastName="Ohe3" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
