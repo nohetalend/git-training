@@ -1,2 +1,0 @@
-#Wed Jul 18 14:28:11 JST 2018
-version=7.0.1
